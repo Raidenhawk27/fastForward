@@ -1,2 +1,6 @@
 Hello.
+<<<<<<< feature
+Making a change in the feature branch.
+=======
 Making a change in main branch now.
+>>>>>>> main
